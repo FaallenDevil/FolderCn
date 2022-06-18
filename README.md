@@ -1,3 +1,8 @@
+
+[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/FaallenDevil/FolderCn)
+
+
+
 # Fclone_Tg_Bot
 ⚫ This is just a Fclone only version of Telegram bot by [Smartass](https://github.com/smartass08) - [Here](https://github.com/smartass08/telegram_gcloner)
 
