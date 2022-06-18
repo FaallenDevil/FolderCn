@@ -7,7 +7,7 @@
 		"BOT_TOKEN": {
 			"description": "Get from Telegram Botfather"
 		},
-		"USER_ID": {
+		"USER_ID": { 
 			"description": "get from telegram get_id_bot. For More than 1 User Give IDs seperated by ','.The First Guy is the Admin"
 		},
 		"GRP_ID": {
